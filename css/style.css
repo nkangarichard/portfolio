@@ -82,12 +82,19 @@ main{
 
 
 }
-.heading-1{
+.heading{
     margin: 18.72px 0px 18.72px 0px;
-   
     color: black;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     text-decoration: none;
     
+}
+.hero-text{
+    margin: 18.72px 0px 18.72px 0px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 60px;
+    text-decoration: none;
 }
